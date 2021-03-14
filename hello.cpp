@@ -9,7 +9,7 @@ public:
     {
         work w;
         w.length = this->length + b.length; 
-        return w;
+        return w;  //  dadasd
     }
 
     int getLength()
