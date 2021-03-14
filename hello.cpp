@@ -39,7 +39,8 @@ int main(void)
     work v;
     v = t + u;
     cout << v.getLength() << "\n";
-    return 0;
+    cout << "\n";
+    return 1;
 }
 
 // D:/Sublime Text 3/sublime_text.exe [file name]:[line number]
