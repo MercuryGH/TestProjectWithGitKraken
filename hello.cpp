@@ -39,6 +39,7 @@ int main(void)
     work v;
     v = t + u;
     cout << v.getLength() << "\n";
+    cout << "\n";
     return 1;
 }
 
